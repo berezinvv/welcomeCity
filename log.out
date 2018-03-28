@@ -1,8 +1,0 @@
-2018-03-28 11:46:04 INFO  App:22 - nameCity Dnipro
-2018-03-28 11:46:05 ERROR App:31 - 
-java.lang.NumberFormatException: For input string: ""
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.lang.Integer.parseInt(Integer.java:592)
-	at java.lang.Integer.parseInt(Integer.java:615)
-	at App.main(App.java:27)
-2018-03-28 11:46:05 INFO  App:59 - HOUR_OF_DAY 8
